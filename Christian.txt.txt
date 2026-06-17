@@ -1,0 +1,6 @@
+git config --global --list
+
+git config --global user.name Christian456-lang
+git config --global user.email atian0948@gmail.com  
+
+Hello World
